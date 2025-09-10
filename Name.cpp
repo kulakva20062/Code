@@ -27,6 +27,6 @@ int main()
 
             cout << ' ' << c[i][j];
         }
-    cout << '\n';
+        cout << '\n';
     }
 }   
