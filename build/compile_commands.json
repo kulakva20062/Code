@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/admin/Documents/Code/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/myExe.dir/Name.cpp.o -c /home/admin/Documents/Code/Name.cpp",
+  "file": "/home/admin/Documents/Code/Name.cpp",
+  "output": "CMakeFiles/myExe.dir/Name.cpp.o"
+}
+]

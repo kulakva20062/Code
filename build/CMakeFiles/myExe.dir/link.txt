@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/myExe.dir/link.d CMakeFiles/myExe.dir/Name.cpp.o -o myExe
