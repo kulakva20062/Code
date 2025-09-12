@@ -9,7 +9,7 @@ int main()
     int a1,a2,a3;
     cin >> a1 >> a2 >> a3;
     for(int i=0;i<a1;i++) for(int j=0;j<a2;j++) cin >> a[i][j];
-    for(int i=0;i<a2;i++) for(int j=0;j<a3;j++)  cin >> b[i][j];
+    for(int i=0;i<a2;i++) for(int j=0;j<a3;j++) cin >> b[i][j];
     for(int i=0;i<a1;i++) 
     {
         for(int j=0;j<a3;j++)
